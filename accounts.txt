@@ -1,5 +1,0 @@
-I open browser 
-And I enter username
-And I enter password 
-And I click login button 
-
